@@ -87,7 +87,7 @@ class _ProfilePageState extends State<ProfilePage> {
                   height: 48,
                   child: ElevatedButton(
                     onPressed: () {
-                      Navigator.pushNamed(context, '/edit_profile');
+                      Navigator.pushNamed(context, '/editProfile');
                     },
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colorss.quaternrtyColor,
