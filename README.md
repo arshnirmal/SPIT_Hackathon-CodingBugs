@@ -1,10 +1,8 @@
-# spit_hackathon
+# SPIT-Hackathon
 
-A new Flutter project.
+# Eco-Quest Mobile Application 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This an application which was as a part of SPIT Hackathon. It is an online platform where user can contribute and get educated about waste management. Individual can compete againts known and unknown users and get rewarded for their performance. We have generated an API with Google Maps to track of a particular community living nearby. By tracking user's information and records, we can provide time to time notifications to the users
 
 A few resources to get you started if this is your first Flutter project:
 
