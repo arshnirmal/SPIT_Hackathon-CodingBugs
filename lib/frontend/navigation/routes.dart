@@ -7,6 +7,7 @@ import 'package:spit_hackathon/frontend/screens/marketplace.dart/redeem.dart';
 import 'package:spit_hackathon/frontend/screens/posts/create_posts.dart';
 import 'package:spit_hackathon/frontend/screens/maps/maps_screen.dart';
 import 'package:spit_hackathon/frontend/screens/navigation/fragments.dart';
+import 'package:spit_hackathon/frontend/screens/posts/post_screen.dart';
 import 'package:spit_hackathon/frontend/screens/profile/edit_profile_screen.dart';
 
 class AppRoutes {
@@ -31,9 +32,9 @@ class AppRoutes {
       case '/createPost':
         return pageRoutes(child: const CreatePost());
       case '/posts':
-        return pageRoutes(child: const CreatePost());
-      case '/redeem' : 
-      return pageRoutes(child: const Redeem());
+        return pageRoutes(child: const PostPage());
+      case '/redeem':
+        return pageRoutes(child: const Redeem());
       default:
         return errorRoute();
     }

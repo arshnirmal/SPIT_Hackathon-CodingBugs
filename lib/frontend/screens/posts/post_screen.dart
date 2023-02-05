@@ -70,13 +70,13 @@ class _PostPageState extends State<PostPage> {
         }).toList();
 
         return Scaffold(
-          floatingActionButton: FloatingActionButton(
-            onPressed: () {
-              Navigator.pushNamed(context, '/createost');
-            },
-            backgroundColor: Colorss.primaryColor,
-            child: const Icon(Icons.add),
-          ),
+          // floatingActionButton: FloatingActionButton(
+          //   onPressed: () {
+          //     Navigator.pushNamed(context, '/createost');
+          //   },
+          //   backgroundColor: Colorss.primaryColor,
+          //   child: const Icon(Icons.add),
+          // ),
           body: CustomScrollView(
             slivers: [
               SliverAppBar(
