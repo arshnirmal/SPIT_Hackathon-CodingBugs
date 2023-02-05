@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "797193336718",
+    "project_id": "spithackathon-dd1f3",
+    "storage_bucket": "spithackathon-dd1f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797193336718:android:515113fa2947bebca716df",
+        "android_client_info": {
+          "package_name": "com.example.spit_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797193336718-5i332vg6uv2390rmbtsrn1h45jqsvv8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spit_hackathon",
+            "certificate_hash": "6cfbeda7aded5ab11ba4a7257be80a2efcbb9cd3"
+          }
+        },
+        {
+          "client_id": "797193336718-t6lrd615265dsnge8o7agsnd6qnuicg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spit_hackathon",
+            "certificate_hash": "7ce503ca928c4c48e37578a725b5dc6246ea065d"
+          }
+        },
+        {
+          "client_id": "797193336718-6s1edmdnr3bf4lg7cc3101r5osp5v34g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJs0O1-ZrjJpKMLdMEwLrQjgx7oHeyCos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797193336718-1e0giuja1lr7h97gvh0mgl904sb5st31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797193336718-ngd0eq7coi01oocr8opsgbpt6t2qrjng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spitHackathon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
